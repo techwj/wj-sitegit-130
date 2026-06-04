@@ -1,0 +1,59 @@
+{
+  "siteId": "small-appliance-red-black-list",
+  "generatedAt": "2026-06-04T11:36:05.673686",
+  "categories": [
+    "beginner-small-appliance-red-black-list",
+    "advanced-small-appliance-red-black-list",
+    "tips-small-appliance-red-black-list",
+    "history-small-appliance-red-black-list",
+    "trending-small-appliance-red-black-list",
+    "tutorials-small-appliance-red-black-list"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-small-appliance-red-black-list",
+      "category_name": "Beginner Small Appliance Red Black List"
+    },
+    {
+      "category_slug": "advanced-small-appliance-red-black-list",
+      "category_name": "Advanced Small Appliance Red Black List"
+    },
+    {
+      "category_slug": "tips-small-appliance-red-black-list",
+      "category_name": "Small Appliance Red Black List Tips"
+    },
+    {
+      "category_slug": "history-small-appliance-red-black-list",
+      "category_name": "Small Appliance Red Black List History"
+    },
+    {
+      "category_slug": "trending-small-appliance-red-black-list",
+      "category_name": "Trending Small Appliance Red Black List"
+    },
+    {
+      "category_slug": "tutorials-small-appliance-red-black-list",
+      "category_name": "Small Appliance Red Black List Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "small-appliance-red-black-list",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Small Appliance Red Black List Central",
+    "articles_per_row": 3
+  }
+}

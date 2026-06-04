@@ -1,0 +1,88 @@
+# Validation Report - small-appliance-red-black-list
+
+Generated: 2026-06-04T11:36:05.673496
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Small Appliance Red Black List
+- ✓ Article word count OK: Beginner Small Appliance Red Black List: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Small Appliance Red Black List
+- ✓ Article word count OK: Beginner Small Appliance Red Black List Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Small Appliance Red Black List
+- ✓ Article word count OK: Beginner Small Appliance Red Black List in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Small Appliance Red Black List
+- ✓ Article word count OK: Common Mistakes in Beginner Small Appliance Red Black List
+- ✓ Article word count OK: Beginner Small Appliance Red Black List for Beginners
+- ✓ Article word count OK: Advanced Beginner Small Appliance Red Black List Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Small Appliance Red Black List
+- ✓ Article word count OK: Advanced Small Appliance Red Black List: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Small Appliance Red Black List
+- ✓ Article word count OK: Advanced Small Appliance Red Black List Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Small Appliance Red Black List
+- ✓ Article word count OK: Advanced Small Appliance Red Black List in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Small Appliance Red Black List
+- ✓ Article word count OK: Common Mistakes in Advanced Small Appliance Red Black List
+- ✓ Article word count OK: Advanced Small Appliance Red Black List for Beginners
+- ✓ Article word count OK: Advanced Advanced Small Appliance Red Black List Techniques
+- ✓ Article word count OK: The Ultimate Guide to Small Appliance Red Black List Tips
+- ✓ Article word count OK: Small Appliance Red Black List Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Small Appliance Red Black List Tips
+- ✓ Article word count OK: Small Appliance Red Black List Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Small Appliance Red Black List Tips
+- ✓ Article word count OK: Small Appliance Red Black List Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Small Appliance Red Black List Tips
+- ✓ Article word count OK: Common Mistakes in Small Appliance Red Black List Tips
+- ✓ Article word count OK: Small Appliance Red Black List Tips for Beginners
+- ✓ Article word count OK: Advanced Small Appliance Red Black List Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Small Appliance Red Black List History
+- ✓ Article word count OK: Small Appliance Red Black List History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Small Appliance Red Black List History
+- ✓ Article word count OK: Small Appliance Red Black List History Tips and Best Practices
+- ✓ Article word count OK: The History of Small Appliance Red Black List History
+- ✓ Article word count OK: Small Appliance Red Black List History in 2026: Current Trends
+- ✓ Article word count OK: Future of Small Appliance Red Black List History
+- ✓ Article word count OK: Common Mistakes in Small Appliance Red Black List History
+- ✓ Article word count OK: Small Appliance Red Black List History for Beginners
+- ✓ Article word count OK: Advanced Small Appliance Red Black List History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Small Appliance Red Black List
+- ✓ Article word count OK: Trending Small Appliance Red Black List: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Small Appliance Red Black List
+- ✓ Article word count OK: Trending Small Appliance Red Black List Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Small Appliance Red Black List
+- ✓ Article word count OK: Trending Small Appliance Red Black List in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Small Appliance Red Black List
+- ✓ Article word count OK: Common Mistakes in Trending Small Appliance Red Black List
+- ✓ Article word count OK: Trending Small Appliance Red Black List for Beginners
+- ✓ Article word count OK: Advanced Trending Small Appliance Red Black List Techniques
+- ✓ Article word count OK: The Ultimate Guide to Small Appliance Red Black List Tutorials
+- ✓ Article word count OK: Small Appliance Red Black List Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Small Appliance Red Black List Tutorials
+- ✓ Article word count OK: Small Appliance Red Black List Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Small Appliance Red Black List Tutorials
+- ✓ Article word count OK: Small Appliance Red Black List Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Small Appliance Red Black List Tutorials
+- ✓ Article word count OK: Common Mistakes in Small Appliance Red Black List Tutorials
+- ✓ Article word count OK: Small Appliance Red Black List Tutorials for Beginners
+- ✓ Article word count OK: Advanced Small Appliance Red Black List Tutorials Techniques
+- ✓ Ad configuration validated
